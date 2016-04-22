@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Haskell bindings for the Syncthing Rest API
+permalink: syncthing-hs-tutorial
 ---
 
 This article is a short tutorial about my 
