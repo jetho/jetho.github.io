@@ -12,7 +12,7 @@ I created this blog for sharing my learning experiences and other random stuff I
 
 * Email: [jetho80@gmail.com](mailto:jetho80@gmail.com)
 
-#### My GPG Public Key
+### My GPG Public Key
 
 You might want to use this GPG public key for communication.
 
