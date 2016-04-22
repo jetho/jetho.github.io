@@ -1,0 +1,34 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               jetho's bλog
+url:                 http://jetho.github.io
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Jens Thomas 
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/jetho/jetho.github.io
+
+pages_list:
+  About: '/about/'
+  Archive: '/archive/'
+  Feed: '/atom.xml'
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
